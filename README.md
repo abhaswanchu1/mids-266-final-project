@@ -40,14 +40,8 @@ Large Language Model (LLM):
 gpt-4.1-nano: A lightweight LLM evaluated in a few-shot learning setting to assess its zero/few-shot capabilities on these tasks.
 Repository Structure
 
-Clone the repository:
-
-git clone https://github.com/datasci-w266/2025-summer-assignment-abhaswanchu1.git
-cd 2025-summer-assignment-abhaswanchu1
-
-
 
 Contributors
 [Abhas Wanchu]
 
-
+Credit for PLU dataset: https://github.com/JFChi/PLUE.git
